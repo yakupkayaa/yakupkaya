@@ -1,9 +1,9 @@
 # README
 ![snake svg]https://github.com/yakupkayaa/yakupkaya
 <h3 align="center">Hey there, I'm Yakup  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<h3 align="center">Join to my DEVOPS Journey
+<h3 align="center">Join my DEVOPS Journey
 
-<a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
+<a href="#"><img width="50%" height="auto" src="![image](https://media-exp1.licdn.com/dms/image/C4D03AQF_C__KydXh4Q/profile-displayphoto-shrink_800_800/0/1641574219028?e=1653523200&v=beta&t=ulu-lGqAtbvK4hLmaWvrGPDUL_kvr8ubQYRRkK0pCeU)" height="75px"/></a>
 
  <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
    
